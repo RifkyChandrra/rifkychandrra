@@ -1,5 +1,7 @@
 # 👋 Hi, I'm rifky Chandra
 
+<img src="https://raw.githubusercontent.com/rifkychandrra/rifkychandrra/main/asset/intro.gif" width="400" />
+
 Selamat datang di profile GitHub saya! 🚀
 
 ## 🧑‍💻 Tentang Saya
@@ -10,8 +12,8 @@ Saya seorang pembelajar yang suka mencoba hal baru dalam dunia teknologi, jaring
 
 Jika ingin berkolaborasi atau berdiskusi, silakan hubungi saya melalui:
 
-* 📧 Email: *rifky9635@gmail.com*
-* 🌐 Website / Portofolio: *https://portofolio-rifkychandrra.vercel.app/*
+- 📧 Email: *rifky9635@gmail.com*
+- 🌐 Website / Portofolio: *https://portofolio-rifkychandrra.vercel.app/*
 
 ---
 
