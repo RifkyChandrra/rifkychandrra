@@ -12,8 +12,6 @@ Saya juga menambahkan video anime favorit ke dalam profil ini! YouTube tidak men
 
 [![Anime Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/ULHKx04rJ7s?si=DCtHnIvtMVO7tjPv)
 
-> Ganti `VIDEO_ID` dengan ID video anime dari YouTube yang ingin Anda tampilkan.
-
 ## 📂 Repository Unggulan
 
 * 🔧 **Project Jaringan** — Konfigurasi dasar hingga lanjutan
