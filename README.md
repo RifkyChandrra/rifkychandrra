@@ -13,7 +13,7 @@ Saya seorang pembelajar yang suka mencoba hal baru dalam dunia teknologi, jaring
 Jika ingin berkolaborasi atau berdiskusi, silakan hubungi saya melalui:
 
 - 📧 Email: *rifky9635@gmail.com*
-- 🌐 Website / Portofolio: *https://portofolio-rifkychandrra.vercel.app/*
+- 🌐 Website / Portofolio: *rifkychandrra.my.id*
 
 ---
 
